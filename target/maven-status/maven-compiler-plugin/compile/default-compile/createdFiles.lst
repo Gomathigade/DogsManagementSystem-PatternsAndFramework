@@ -1,0 +1,6 @@
+com\fellahClasses\DMS\DogsManagementSystemApplication.class
+com\fellahClasses\DMS\repository\DogRepository.class
+com\fellahClasses\DMS\Models\Dog.class
+com\fellahClasses\DMS\Models\Trainer.class
+com\fellahClasses\DMS\repository\TrainerRepository.class
+com\fellahClasses\DMS\Controllers\DogController.class
